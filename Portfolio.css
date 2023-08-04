@@ -61,6 +61,7 @@ align-items: center;
 padding:0 10%;
 }
 .home-content{
+  position: absolute;
 max-width:600px;
 }
 .home-content h1{
